@@ -1,0 +1,1 @@
+ If your application serves static files like CSS, JavaScript, or images, you can create a directory for them (e.g., public/ or static/) to keep them separate from your application logic.
